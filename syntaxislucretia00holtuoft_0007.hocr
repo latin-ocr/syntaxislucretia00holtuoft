@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./syntaxislucretia00holtuoft_0007.png"; bbox 0 0 1736 3017; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 481 282 1017 421">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 481 282 1017 421">
+     <span class='ocr_line' id='line_1_1' title="bbox 481 282 1017 421; baseline -0.017 -16"><span class='ocrx_word' id='word_1_1' title='bbox 481 282 1017 421; x_wconf 60' lang='lat' dir='ltr'><strong>§YNTAXIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 15 628 1519 737">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 15 628 1519 737">
+     <span class='ocr_line' id='line_1_2' title="bbox 15 628 1519 737; baseline -0.027 23"><span class='ocrx_word' id='word_1_2' title='bbox 15 628 1519 737; x_wconf 74' lang='lat' dir='ltr'><strong>LUCRETIANAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 390 956 1146 1031">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 390 956 1146 1031">
+     <span class='ocr_line' id='line_1_3' title="bbox 390 956 1146 1031; baseline -0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 390 956 1146 1031; x_wconf 78' lang='lat' dir='ltr'><strong>LINEAMENTA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 646 1617 891 1649">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 646 1617 891 1649">
+     <span class='ocr_line' id='line_1_4' title="bbox 646 1617 891 1649; baseline -0.016 2"><span class='ocrx_word' id='word_1_4' title='bbox 646 1617 891 1649; x_wconf 78' lang='lat' dir='ltr'>SCRIPSIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 444 2598 1108 2637">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 444 2598 1108 2637">
+     <span class='ocr_line' id='line_1_5' title="bbox 444 2598 1108 2637; baseline -0.035 19"><span class='ocrx_word' id='word_1_5' title='bbox 444 2600 675 2637; x_wconf 76' lang='lat' dir='ltr'>OTTO</span> <span class='ocrx_word' id='word_1_6' title='bbox 737 2598 1108 2635; x_wconf 78' lang='lat' dir='ltr'><strong>HOLTZE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 715 2710 833 2751">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 715 2710 833 2751">
+     <span class='ocr_line' id='line_1_6' title="bbox 715 2710 833 2751; baseline 0.017 -3"><span class='ocrx_word' id='word_1_7' title='bbox 715 2711 731 2748; x_wconf 90' lang='lat'>1</span> <span class='ocrx_word' id='word_1_8' title='bbox 740 2710 833 2751; x_wconf 78' lang='grc'>8888</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
